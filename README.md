@@ -9,10 +9,10 @@ Microstructure vision-based porosity analysis
 
 
 
-## Large scale image
+## Large scale image (Aluminum, 300 microns)
 
 <img align="left" alt="Large scale image (Aluminum, 300 microns)" src="readme_images/large_scale_aluminum_300_microns.png"/>
-Aluminum, 300 microns.
+
 
 **Input data:**
 
@@ -36,10 +36,11 @@ Aluminum, 300 microns.
 - Pore fraction = 1.41%
 
 
-## Small scale image
+
+## Small scale image (Aluminum, 30 microns)
 
 <img align="left" alt="Large scale image (Aluminum, 30 microns)" src="readme_images/small_scale_aluminum_30_microns.png"/>
-Aluminum, 30 microns.
+
 
 **Input data:**
 
