@@ -4,7 +4,7 @@
 
 <img align="left" alt="Large scale image (Aluminum, 300 microns)" src="readme_images/large_scale_aluminum_300_microns.png"/>
 
-<br /><br />
+<br><br>
 
 **Input data:**
 
@@ -18,7 +18,6 @@
 - Image area = 2595840 px2
 - Pore area  = 36730 px2
 - Pore fraction = 1.41%
-
 - Total number of pores = 630
     - Number of circular pores = 45
     - Number of elliptical pores = 142
@@ -35,7 +34,7 @@
 
 <img align="left" alt="Large scale image (Aluminum, 30 microns)" src="readme_images/small_scale_aluminum_30_microns.png"/>
 
-<br /><br />
+<br><br>
 
 **Input data:**
 
